@@ -85,6 +85,4 @@ def main():
 	
 	drawAlgoithm(studentChoice,finalAllotmentList,n);
 	print("------End-----")
-
-if __name__=="__main__":
-	main()
+main()
